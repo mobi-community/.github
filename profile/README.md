@@ -1,0 +1,110 @@
+
+## MOBI
+
+모비는 값비싼 사교육, 현실적 시간 투자의 결여에 겁먹은 세상의 모든 비전공자들을 위해 무료로 교육을 제공하고 취업 이후의 인프라 형성을 통해 새로운 시작을 응원하는 비영리 단체입니다. 
+현재는 내부 추천으로만 운영되고 있으며 향후 홈페이지 개설 및 외부 공개를 통해 영역을 점차 확장해 나갈 예정입니다
+
+![KakaoTalk_Photo_2023-06-27-16-22-52](https://github.com/mobi-community/.github/assets/138415793/a791754b-bb7c-430c-84f9-6869c90442e3)
+
+## MEMBER
+#### group1
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JuramLee">
+        <img src="https://avatars.githubusercontent.com/u/113501460?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/HyunseoKoo">
+        <img src="https://avatars.githubusercontent.com/u/117560047?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Doeunnkimm">
+        <img src="https://avatars.githubusercontent.com/u/112946860?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nasilKiM">
+        <img src="https://avatars.githubusercontent.com/u/117559842?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/seonyeong719">
+        <img src="https://avatars.githubusercontent.com/u/117560052?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Jolibee
+    </th>
+    <th>
+      Cathy
+    </th>
+    <th>
+      Woony
+    </th>
+    <th>
+       Natalie
+    </th>
+     <th>
+       Celine
+    </th>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/zivivle">
+        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/yesoryeseul">
+        <img src="https://avatars.githubusercontent.com/u/123865139?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JeongwooHam">
+        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sueddd">
+        <img src="https://avatars.githubusercontent.com/u/111338578?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Zoey
+    </th>
+    <th>
+      Kei
+    </th>
+    <th>
+      Jane
+    </th>
+    <th>
+      Heepy
+    </th>
+  </tr>
+</table>
+
+## KPI
+
+모든 모비
+```
+9
+```
+
+현재 활동중 인 모비
+```
+9
+```
+
+모비를 통해 취업한 인원 모비
+```
+1
+```
+
