@@ -7,7 +7,6 @@
 <img src="https://dangimageserver.s3.ap-northeast-2.amazonaws.com/img/admin/mobi.jpeg"/>
 
 ## MEMBER
-#### group1
 <table>
   <tr>
     <td>
