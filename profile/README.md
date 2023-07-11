@@ -6,6 +6,37 @@
 
 <img src="https://dangimageserver.s3.ap-northeast-2.amazonaws.com/img/admin/mobi.jpeg"/>
 
+## OPERATOR
+<table>
+  <tr>
+    <td>
+        <img src="https://dangimageserver.s3.ap-northeast-2.amazonaws.com/img/admin/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-07-12+%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB+8.38.19.png" width="120px" height="120px"/>
+    </td>
+    <td>
+      <a href="https://github.com/JuramLee">
+        <img src="https://avatars.githubusercontent.com/u/113501460?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/HyunseoKoo">
+        <img src="https://avatars.githubusercontent.com/u/117560047?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Peanut
+    </th>
+    <th>
+      Jolibee
+    </th>
+    <th>
+      Cathy
+    </th>
+  </tr>
+</table>
+
+
 ## MEMBER
 <table>
   <tr>
