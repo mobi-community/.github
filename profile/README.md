@@ -60,11 +60,6 @@
         <img src="https://avatars.githubusercontent.com/u/117559842?v=4" width="120px" height="120px"/>
       </a>
     </td>
-    <td>
-      <a href="https://github.com/seonyeong719">
-        <img src="https://avatars.githubusercontent.com/u/117560052?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
   </tr>
   <tr>
     <th>
@@ -78,9 +73,6 @@
     </th>
     <th>
        Natalie
-    </th>
-     <th>
-       Celine
     </th>
   </tr>
     <tr>
