@@ -43,49 +43,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/JuramLee">
-        <img src="https://avatars.githubusercontent.com/u/113501460?v=4" width="120px" height="120px"/>
-      </a>  
-    </td>
-    <td>
-      <a href="https://github.com/HyunseoKoo">
-        <img src="https://avatars.githubusercontent.com/u/117560047?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Doeunnkimm">
-        <img src="https://avatars.githubusercontent.com/u/112946860?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/nasilKiM">
         <img src="https://avatars.githubusercontent.com/u/117559842?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Jolibee
-    </th>
-    <th>
-      Cathy
-    </th>
-    <th>
-      Woony
-    </th>
-    <th>
-       Natalie
-    </th>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://github.com/zivivle">
-        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
-      </a>  
-    </td>
-    <td>
-      <a href="https://github.com/yesoryeseul">
-        <img src="https://avatars.githubusercontent.com/u/123865139?v=4" width="120px" height="120px"/>
       </a>
     </td>
     <td>
@@ -94,26 +53,92 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Sueddd">
-        <img src="https://avatars.githubusercontent.com/u/111338578?v=4" width="120px" height="120px"/>
+      <a href="https://github.com/Jihyeong00">
+        <img src="https://avatars.githubusercontent.com/u/115636461?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="(https://github.com/LeeDaeGyeong">
+        <img src="https://avatars.githubusercontent.com/u/134574485?v=4" width="120px" height="120px"/>
       </a>
     </td>
   </tr>
   <tr>
     <th>
-      Zoey
-    </th>
-    <th>
-      Kei
+      Natalie
     </th>
     <th>
       Jane
     </th>
     <th>
-      Heepy
+      Zero
+    </th>
+    <th>
+      Daniel
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ooherin">
+        <img src="https://avatars.githubusercontent.com/u/125418818?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/kiminn">
+        <img src="https://avatars.githubusercontent.com/u/134191815?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HeesikK">
+        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ahnjuhyeon">
+        <img src="https://avatars.githubusercontent.com/u/134281116?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Rin
+    </th>
+    <th>
+      Kimmi
+    </th>
+    <th>
+      Levi
+    </th>
+    <th>
+      Ann
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/55555-Jyeon">
+        <img src="https://avatars.githubusercontent.com/u/134191817?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/Jang-Sang">
+        <img src="https://avatars.githubusercontent.com/u/110034416?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mugi7794">
+        <img src="https://avatars.githubusercontent.com/u/95909862?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Amy
+    </th>
+    <th>
+      Jack
+    </th>
+    <th>
+      Noel
     </th>
   </tr>
 </table>
-
-```
-
