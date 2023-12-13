@@ -90,7 +90,7 @@
     </td>
     <td>
       <a href="https://github.com/HeesikK">
-        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+        <img src="https://avatars.githubusercontent.com/u/127207625?v=4" width="120px" height="120px"/>
       </a>
     </td>
     <td>
