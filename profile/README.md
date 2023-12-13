@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <th>
-      Kei
+      Kei 👑
     </th>
     <th>
       Zoey
