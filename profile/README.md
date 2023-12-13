@@ -30,10 +30,10 @@
       Kei 👑
     </th>
     <th>
-      Zoey
+      Zoey 🛠
     </th>
     <th>
-      Heepy
+      Heepy 🔫
     </th>
   </tr>
 </table>
