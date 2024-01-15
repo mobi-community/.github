@@ -58,7 +58,7 @@
       </a>
     </td>
     <td>
-      <a href="(https://github.com/LeeDaeGyeong">
+      <a href="https://github.com/LeeDaeGyeong">
         <img src="https://avatars.githubusercontent.com/u/134574485?v=4" width="120px" height="120px"/>
       </a>
     </td>
