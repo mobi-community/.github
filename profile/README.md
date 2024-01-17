@@ -24,6 +24,16 @@
         <img src="https://avatars.githubusercontent.com/u/111338578?v=4" width="120px" height="120px"/>
       </a>
     </td>
+        <td>
+      <a href="https://github.com/JeongwooHam">
+        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Jihyeong00">
+        <img src="https://avatars.githubusercontent.com/u/115636461?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <th>
@@ -34,6 +44,12 @@
     </th>
     <th>
       Heepy 🔫
+    </th>
+    <th>
+      Jane
+    </th>
+    <th>
+      Zero
     </th>
   </tr>
 </table>
@@ -48,18 +64,18 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/JeongwooHam">
-        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Jihyeong00">
-        <img src="https://avatars.githubusercontent.com/u/115636461?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/LeeDaeGyeong">
         <img src="https://avatars.githubusercontent.com/u/134574485?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/55555-Jyeon">
+        <img src="https://avatars.githubusercontent.com/u/134191817?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/Jang-Sang">
+        <img src="https://avatars.githubusercontent.com/u/110034416?v=4" width="120px" height="120px"/>
       </a>
     </td>
   </tr>
@@ -68,13 +84,13 @@
       Natalie
     </th>
     <th>
-      Jane
-    </th>
-    <th>
-      Zero
-    </th>
-    <th>
       Daniel
+    </th>
+    <th>
+      Amy
+    </th>
+    <th>
+      Jack
     </th>
   </tr>
   <tr>
@@ -111,34 +127,6 @@
     </th>
     <th>
       Ann
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/55555-Jyeon">
-        <img src="https://avatars.githubusercontent.com/u/134191817?v=4" width="120px" height="120px"/>
-      </a>  
-    </td>
-    <td>
-      <a href="https://github.com/Jang-Sang">
-        <img src="https://avatars.githubusercontent.com/u/110034416?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mugi7794">
-        <img src="https://avatars.githubusercontent.com/u/95909862?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Amy
-    </th>
-    <th>
-      Jack
-    </th>
-    <th>
-      Noel
     </th>
   </tr>
 </table>
