@@ -38,7 +38,7 @@
       Zoey 🛠
     </th>
     <th>
-      Jane
+      Jane 👾
     </th>
     <th>
       Zero
