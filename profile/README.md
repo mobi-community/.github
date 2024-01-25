@@ -41,7 +41,7 @@
       Jane 👾
     </th>
     <th>
-      Zero
+      Zero 🐈‍⬛
     </th>
   </tr>
 </table>
