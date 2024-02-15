@@ -25,7 +25,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Jihyeong00">
+      <a href="https://github.com/Zero-1016">
         <img src="https://avatars.githubusercontent.com/u/115636461?v=4" width="120px" height="120px"/>
       </a>
     </td>
