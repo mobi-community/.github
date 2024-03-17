@@ -87,11 +87,6 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KR-HeoJU">
-          <img src="https://avatars.githubusercontent.com/u/142701420?v=4" width="120px" height="120px"/>
-        </a>  
-      </td>
-      <td>
         <a href="https://github.com/keeprok">
           <img src="https://avatars.githubusercontent.com/u/140785214?v=4" width="120px" height="120px"/>
         </a>
@@ -103,16 +98,17 @@
       </td>
       <td>
       </td>
+      <td>
+      </td>
     </tr>
     <tr>
-      <th>
-        Lucas
-      </th>
       <th>
         Riel
       </th>
       <th>
         Wendy
+      </th>
+      <th>
       </th>
       <th>
       </th>
