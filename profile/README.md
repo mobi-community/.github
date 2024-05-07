@@ -51,11 +51,6 @@
 <table>
   <tr>
       <td>
-        <a href="https://github.com/jjjiyoung0130">
-          <img src="https://avatars.githubusercontent.com/u/142701370?v=4" width="120px" height="120px"/>
-        </a>  
-      </td>
-      <td>
         <a href="https://github.com/snkchan">
           <img src="https://avatars.githubusercontent.com/u/144839872?v=4" width="120px" height="120px"/>
         </a>
@@ -70,22 +65,6 @@
           <img src="https://avatars.githubusercontent.com/u/50646145?v=4" width="120px" height="120px"/>
         </a>
       </td>
-    </tr>
-    <tr>
-      <th>
-        Brilly
-      </th>
-      <th>
-        Chan
-      </th>
-      <th>
-        Gang
-      </th>
-      <th>
-        Jeff
-      </th>
-    </tr>
-    <tr>
       <td>
         <a href="https://github.com/keeprok">
           <img src="https://avatars.githubusercontent.com/u/140785214?v=4" width="120px" height="120px"/>
@@ -96,21 +75,22 @@
           <img src="https://avatars.githubusercontent.com/u/142880051?v=4" width="120px" height="120px"/>
         </a>
       </td>
-      <td>
-      </td>
-      <td>
-      </td>
     </tr>
     <tr>
+      <th>
+        Chan
+      </th>
+      <th>
+        Gang
+      </th>
+      <th>
+        Jeff
+      </th>
       <th>
         Riel
       </th>
       <th>
         Wendy
-      </th>
-      <th>
-      </th>
-      <th>
       </th>
     </tr>
 </table>
